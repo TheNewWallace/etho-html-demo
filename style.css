@@ -1,0 +1,15 @@
+body{
+	font-family:verdana;
+}
+p{
+	font-style:italic;
+}
+#para{
+	font-weight:bold;
+}
+.className{
+	color:red;
+}
+div.className p{
+	font-size:20px;
+}
